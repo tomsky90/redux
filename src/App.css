@@ -1,0 +1,21 @@
+.counter-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 30%;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.counter-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-size: 40px;
+}
